@@ -10,8 +10,7 @@ const NavBar = () => {
         <ul>
             <li>Juguetes en madera</li>
             <li>Amigurumis</li>
-            <li>Macramé</li>
-            <li>Ropa bebé</li>
+            <li>Ropa de bebé</li>
             <li>Decoración</li>
         </ul>
     </nav>
